@@ -5168,6 +5168,7 @@ pre {
 	width: 90%;
 	max-width: 600px;
 	margin: 0 auto 40px;
+	background-color: rgb(244, 37, 52);
 }
 .menu-toggle {
 	background: #4ab2f1 url('../images/menu-icon.png') right center no-repeat;
@@ -5258,6 +5259,7 @@ pre {
 .master-wrapper-content,
 .header-menu {
 	width: 92.5%;
+	background-color: rgb(244, 37, 52);
 }
 
 
@@ -6289,6 +6291,7 @@ pre {
 	border-bottom: 1px solid #ddd;
 	padding: 25px 0;
 	text-align: center;
+	background-color: rgb(244, 37, 52);
 }
 .menu-toggle,
 .sublist-toggle {
@@ -6822,6 +6825,7 @@ pre {
 
 .header-menu {
 	width: 1200px;
+	background-color: rgb(244, 37, 52);
 }
 .header-menu > ul > li {
 	padding: 0 20px;

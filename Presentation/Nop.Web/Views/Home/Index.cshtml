@@ -5,10 +5,16 @@
     Html.AppendPageCssClassParts("html-home-page");
 }
 <div class="page home-page">
+
+
+
     <div class="page-body">
         @await Component.InvokeAsync("Widget", new { widgetZone = "home_page_top" })
         @await Component.InvokeAsync("TopicBlock", new { systemName = "HomePageText" })
         @await Component.InvokeAsync("Widget", new { widgetZone = "home_page_before_categories" })
+
+        <div>dsdsds</div>
+
         @await Component.InvokeAsync("HomepageCategories")
         @await Component.InvokeAsync("Widget", new { widgetZone = "home_page_before_products" })
         @await Component.InvokeAsync("HomepageProducts")

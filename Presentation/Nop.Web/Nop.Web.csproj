@@ -45,6 +45,61 @@
 
     <!-- We copy the \Logs directory -->
     <Content Include="Logs\**" CopyToPublishDirectory="PreserveNewest" />
+    <None Remove="Themes\jFirstTheme\Content\css\ie8.css" />
+    <None Remove="Themes\jFirstTheme\Content\css\print.css" />
+    <None Remove="Themes\jFirstTheme\Content\css\styles - Copy.css" />
+    <None Remove="Themes\jFirstTheme\Content\css\styles.css" />
+    <None Remove="Themes\jFirstTheme\Content\css\styles.rtl.css" />
+    <None Remove="Themes\jFirstTheme\Content\images\ajax-loader-small.gif" />
+    <None Remove="Themes\jFirstTheme\Content\images\back-button.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\calendar-next.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\calendar-prev.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\close.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\compare-button.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\details.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\discontinued-product-icon.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\download-button.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\edit.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\edit_.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\email-button.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\first.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\ie_warning.jpg" />
+    <None Remove="Themes\jFirstTheme\Content\images\last.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\loading.gif" />
+    <None Remove="Themes\jFirstTheme\Content\images\logo.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\menu-icon.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\move.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\new.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\next.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\pointer.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\prev.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\rating1.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\rating2.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\remove.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\remove_.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\reply.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\retry.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\return.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\rss.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\shipping.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\shopping-bag.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\social-sprite.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\subscribe-button.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\toggle-black.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\toggle-gray.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\toggle-white.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\topic-type1.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\topic-type2.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\topic-type3.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\view-grid.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\view-list.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\vote-down-selected.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\vote-down.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\vote-up-selected.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\vote-up.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\watch.png" />
+    <None Remove="Themes\jFirstTheme\Content\images\wishlist-button.png" />
+    <None Remove="Themes\jFirstTheme\preview.jpg" />
 
     <None Update="Areas\Admin\sitemap.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

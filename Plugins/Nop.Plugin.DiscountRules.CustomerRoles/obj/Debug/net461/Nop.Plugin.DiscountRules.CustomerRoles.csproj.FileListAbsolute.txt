@@ -1,0 +1,13 @@
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\NopCommerceTest\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.pdb

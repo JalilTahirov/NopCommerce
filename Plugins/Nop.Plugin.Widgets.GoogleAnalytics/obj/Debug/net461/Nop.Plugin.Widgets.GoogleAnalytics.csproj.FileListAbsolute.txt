@@ -1,0 +1,14 @@
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\NopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\NopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.pdb
